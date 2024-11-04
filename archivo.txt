@@ -1,3 +1,2 @@
 Contenido de ejemplo
 Pull Request1
-conflictomain
